@@ -10,7 +10,7 @@ Una de las cosas que más me gusta es jugar y ver futbol (hincha desde la cuna d
 
 Si te interesó algo o tienes alguna duda, puedes escribirme a mi correo (mariomttz@protonmail.com). 📧 Gracias por tu tiempo. 🤍
 
-## A little bit about me... (in english). 🇺🇸
+### A little bit about me... (in english). 🇺🇸
 
 Hi, I'm Mario Martinez. 👨‍💻 A student at UNAM ENES Morelia in the major of Information Technology in Science (IST). 💻 As well as the creator and developer of a science outreach project through social networks and the web called "def ciencia". 💡
 
