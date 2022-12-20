@@ -10,6 +10,8 @@ Una de las cosas que más me gusta es jugar y ver futbol (hincha desde la cuna d
 
 Si te interesó algo o tienes alguna duda, puedes escribirme a mi correo (mariomttz@protonmail.com). 📧 Gracias por tu tiempo. 🤍
 
+Dato curioso: CAPTCHA por sus siglas en inglés, traducido al español significa "Prueba de Turing completamente automática y pública para distinguir máquinas de humanos". 🤖
+
 ### A little bit about me... (in english). 🇺🇸
 
 Hi, I'm Mario Martinez. 👨‍💻 A student at UNAM ENES Morelia in the major of Information Technology in Science (IST). 💻 As well as the creator and developer of a science outreach project through social networks and the web called "def ciencia". 💡
@@ -19,3 +21,5 @@ Currently, I like to learn about topics related to artificial intelligence and n
 One of the things I like the most is playing and watching soccer (I'm a Liverpool FC supporter from the cradle), reading books related to science and in my free time learning new things of any kind. ⚽️
 
 If you are interested in anything or have any doubt, you can write me to my email (mariomttz@protonmail.com). 📧 Thanks for your time. 🤍
+
+Fun fact: CAPTCHA stands for "Completely Automated Public Turing Test to tell Computers and Humans Apart". 🤖
